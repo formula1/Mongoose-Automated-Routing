@@ -1,0 +1,24 @@
+{
+  "name": "maroop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./core/index.js",
+  "scripts": {
+    "test": "mocha tests/test.js"
+  },
+  "dependencies": {
+    "mongoose": "latest",
+    "mpath": "latest",
+    "node-mime": "latest",
+    "accepts": "latest",
+    "formidable": "latest",
+    "async": "latest"
+  },
+  "devDependencies": {
+    "request": "latest",
+    "express": "latest",
+    "mocha": "latest"
+  },
+  "author": "Sam Tobia",
+  "license": "JSON"
+}

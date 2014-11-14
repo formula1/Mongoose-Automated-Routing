@@ -1,0 +1,13 @@
+{
+  "debug":true,
+  "http":{
+    "hostname":"localhost",
+    "port":3000
+  },
+  "mongo":{
+    "url":"localhost:27017/test",
+    "options":{
+      "safe":true
+    }
+  }
+}
