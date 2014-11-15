@@ -46,9 +46,10 @@ the arguments of the method, as a result I have to just do my best in terms of a
 >Inorder to call a method, I'm using the notation of `/My/Path/To/Something/!method`
 I'm considering making it like `/My/Path/To/Something/method!` so I can do `/My/Path/To/Something/method!extension` instead of `/My/Path/To/Something/!method.extension`
 I could also do `/My/Path/To/Something!method.extension` Or even group up the method `/My/Path/To/Something/method` like that
+
 The sky is the limit I suppose....
 
-### Currently handled methods
+## Currently handled routes
 
 * Model/
 * Model/!Create
